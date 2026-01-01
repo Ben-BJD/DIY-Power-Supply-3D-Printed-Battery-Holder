@@ -1,11 +1,18 @@
 # DIY Power Supply: AA Battery Pack FreeCad Source, STL files, Cura Projects
 
+[![Read the Full Tutorial](https://img.shields.io/badge/Read-Full_Article_&_Guide-blue?style=for-the-badge&logo=firefox&logoColor=white)](https://bj-dehaan-solutions.com.au/articles/3d-printing/diy-power-supply-how-to-design-3d-print-and-wire-a-battery-holder-tutorial)
+
 **Power Your ESP32 & Arduino with Custom 3D Printed Battery Packs**
 
 ## 📖 Project Overview
 A custom AA battery holder using **FreeCAD**.
 
 Whether you need a single cell for a 1.5V circuit or a series configuration for 3.3V/5V microcontrollers (ESP32, Arduino), this repository provides the source files and print settings to manufacture your own reliable power supply.
+
+### 📖 Read the Full Story
+This repository contains the source files, but if you want to understand the engineering behind the design and the **wiring logic** for the series connections—check out the full write-up:
+
+👉 **[DIY Power Supply: How to Design, 3D Print, and Wire a Battery Holder](https://bj-dehaan-solutions.com.au/articles/3d-printing/diy-power-supply-how-to-design-3d-print-and-wire-a-battery-holder-tutorial)**
 
 ### Key Concepts
 *   **Design for Assembly (DFA):** Creating snap-fit components and managing tolerances for 3D printed parts.
@@ -109,6 +116,11 @@ The final designs were load tested using a multimeter and connected to various m
 | **1x Case** | ~1.6V | Basic LED circuits |
 | **2x Case** | ~3.2V | Directly powering an ESP32C3 without a regulator (Running on LiFePO4 or Alkaline*) |
 | **3x Case** | ~4.8V | Regulated XIAO Seed Studio ESP32 |
+
+---
+
+## 🔗 Resources
+*   **[Website Article](https://bj-dehaan-solutions.com.au/articles/3d-printing/diy-power-supply-how-to-design-3d-print-and-wire-a-battery-holder-tutorial):** Full step-by-step guide, wiring diagrams, and troubleshooting tips.
 
 ---
 
