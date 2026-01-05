@@ -1,6 +1,6 @@
 # DIY Power Supply: AA Battery Pack FreeCad Source, STL files, Cura Projects
 
-[![Read the Full Tutorial](https://img.shields.io/badge/Read-Full_Article_&_Guide-blue?style=for-the-badge&logo=firefox&logoColor=white)](https://bj-dehaan-solutions.com.au/articles/3d-printing/diy-power-supply-how-to-design-3d-print-and-wire-a-battery-holder-tutorial)
+[![Watch the Tutorial](https://img.shields.io/badge/Watch-YouTube_Tutorial-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=EnIscucPs8o) [![Read the Article](https://img.shields.io/badge/Read-Website_Article-blue?style=for-the-badge&logo=firefox)](https://bj-dehaan-solutions.com.au/articles/3d-printing/diy-power-supply-how-to-design-3d-print-and-wire-a-battery-holder-tutorial)
 
 **Power Your ESP32 & Arduino with Custom 3D Printed Battery Packs**
 
@@ -17,6 +17,8 @@ This repository contains the source files, but if you want to understand the eng
 ### Key Concepts
 *   **Design for Assembly (DFA):** Creating snap-fit components and managing tolerances for 3D printed parts.
 *   **Electro-Mechanical Integration:** combining plastic with metal leaf springs and wiring.
+
+![Splash Image](splash.png)
 
 ---
 
